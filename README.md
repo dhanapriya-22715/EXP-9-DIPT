@@ -48,9 +48,10 @@ plt.axis('off')
 ```
 ## OUTPUT
 <img width="1017" height="843" alt="image" src="https://github.com/user-attachments/assets/40ed3e64-d722-44b5-b9fc-500230c6e448" />
-<img width="567" height="443" alt="image" src="https://github.com/user-attachments/assets/24114e55-f7d8-4fdc-9edc-c42abfdcba3a" />
-<img width="653" height="441" alt="image" src="https://github.com/user-attachments/assets/a5937354-e1dc-4486-8e31-60c8045f5969" />
-<img width="670" height="447" alt="image" src="https://github.com/user-attachments/assets/57975bbd-102d-4c7c-97c6-b02e981c76c9" />
+
+<img width="1172" height="472" alt="image" src="https://github.com/user-attachments/assets/cc41e6a7-7491-42e1-8166-7d783a71f822" />
+<img width="1236" height="428" alt="image" src="https://github.com/user-attachments/assets/49fd87d7-8dc0-4a17-862f-a848405bf808" />
+<img width="727" height="443" alt="image" src="https://github.com/user-attachments/assets/71eafa70-7972-477f-98ca-9eeb9e9e5acc" />
 
 ## RESULT
 Erosion and Dilation operations are successfully implemented using OpenCV. The eroded image shows thinner text, while the dilated image shows thicker text compared to the original image.
